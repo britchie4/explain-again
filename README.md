@@ -45,7 +45,7 @@ The row moves to each new long reply and steps aside while Claude is working. Sh
 **From GitHub:**
 
 ```
-claude plugin marketplace add smughead/explain-again
+claude plugin marketplace add britchie4/explain-again
 claude plugin install explain-again@explain-again
 ```
 
